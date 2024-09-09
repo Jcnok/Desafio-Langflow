@@ -179,7 +179,10 @@ pyrightconfig.json
 # vscode
 .vscode
 
-#Pastas:
-/langflow/*
-/Rote-ia/open-webui/*
+# Ignorar todos os arquivos dentro de Rote-ia/langflow/data/
+Rote-ia/langflow/data/*
+
+# Ignorar todos os arquivos dentro de Rote-ia/open-webui/_data/
+Rote-ia/open-webui/_data/*
+
 # End of https://www.toptal.com/developers/gitignore/api/python
