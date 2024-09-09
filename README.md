@@ -48,15 +48,28 @@ Rote.IA é composto por três componentes principais integrados:
  
 ## Equipe
 
-- Péricles Oliveira - Arquiteto de IA
-- Maxwell Fernandes - Desenvolvedora Full Stack
-- Julio Okuda - Especialista em Integração de Sistemas
+Péricles Oliveira - Arquiteto de IA 
+
+  [![linkedin](https://img.shields.io/badge/linkedin-blue.svg)](https://www.linkedin.com/in/olipericles/)
+  [![Github](https://img.shields.io/badge/github-grey.svg)](https://github.com/olipericles)
+
+Julio Okuda - Especialista em Integração de Sistemas
+
+[![linkedin](https://img.shields.io/badge/linkedin-blue.svg)](https://www.linkedin.com/in/juliookuda/)
+[![Github](https://img.shields.io/badge/github-grey.svg)](https://github.com/Jcnok)
+
+Maxwell Fernandes - Engenheiro de Prompt
+
+[![instagram](https://img.shields.io/badge/instagram-purple.svg)](https://www.instagram.com/maxwellfernandes1/)
+[![Github](https://img.shields.io/badge/github-grey.svg)](https://github.com/tocadaweb)
+
+
 
 
 ## Contato
 
 Rote-IA Consultoria - 
-contato@rote-ia.com
+[contato@rote-ia.com](mailto:julio.okuda@gmail.com)
 
 Link do Projeto Roteia: [https://github.com/Rote-IA/rote-ia-project](https://github.com/Jcnok/Desafio-Langflow/tree/main/Rote-ia#roteia-plataforma-integrada-open-webui-e-langflow---projeto-skynet)
 
