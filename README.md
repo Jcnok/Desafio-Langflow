@@ -76,3 +76,4 @@ Link do Projeto Roteia: [https://github.com/Rote-IA/rote-ia-project](https://git
 Link do Projeto da API: [https://github.com/CRM-Skynet](https://github.com/Jcnok/Desafio-Langflow/tree/main/Skynet-API#crm-skynet-provider---sqlite--fastapi)
 
 Site: https://skynet.tocadaweb.shop/
+
