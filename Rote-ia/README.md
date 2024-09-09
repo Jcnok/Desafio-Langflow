@@ -1,6 +1,10 @@
 # Rote.IA: Plataforma Integrada Open-WebUI e Langflow - Projeto Skynet
 
-
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
+[![Docker](https://img.shields.io/badge/Docker-25.0.3+-blue.svg)](https://www.docker.com/)
+[![Docker-Compose](https://img.shields.io/badge/Docker_compose-2.24.6+-blue.svg)](https://docs.docker.com/compose/install/linux/)
+[![Langflow](https://img.shields.io/badge/langflow-1.0.16+-blue.svg)](https://www.langflow.org/)
+[![Open-webui](https://img.shields.io/badge/open%20webui-0.3.21+-blue.svg)](https://docs.openwebui.com/)
 ## Visão Geral
 
 **Rote.IA** é uma plataforma totalmente integrada e containerizada, que combina o poder do [Open-WebUI](https://github.com/open-webui/open-webui) e do [Langflow](https://github.com/logspace-ai/langflow) para o desenvolvimento de aplicações baseadas em IA. Projetada com escalabilidade e flexibilidade em mente, esta plataforma utiliza Docker para garantir portabilidade e facilidade de implantação, permitindo que os desenvolvedores foquem na criação de soluções robustas de IA sem complicações na configuração do ambiente.
