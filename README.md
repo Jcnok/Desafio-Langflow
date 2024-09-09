@@ -11,13 +11,6 @@ Rote.IA é uma plataforma de inteligência artificial avançada desenvolvida pel
 
 Nosso sistema utiliza roteamento semântico e IA para minimizar a burocracia dos menus hierárquicos, permitindo que os clientes obtenham resoluções rápidas com mínima interação.
 
-## Apresentação do Projeto
-
-Confira nossa apresentação do projeto no vídeo abaixo:
-
-[![Getting Started](img/skynet.png)](https://youtu.be/w0F05BRzVzM?si=mTFvP0WmvTYXy4TO)
-
-
 ## Características Principais
 
 - **Integração Perfeita**: Combina Open-WebUI, Langflow e CRM-Skynet em um ambiente unificado.
