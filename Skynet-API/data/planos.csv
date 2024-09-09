@@ -1,0 +1,6 @@
+plano_id,nome,descricao,velocidade,preco,tipo
+1,Básico,Plano de internet,100 Mbps,49.99,Residencial
+2,Padrão,Combo(internet + tv),200 Mbps,79.99,Residencial
+3,Premium,Combo(internet + tv + mobile),300 Mbps,119.99,Residencial
+4,Gold,Combo(internet + tv + mobile),500 Mbps,199.99,Residencial
+5,Empresarial,Plano para empresas,1 Gbps,499.99,Empresarial

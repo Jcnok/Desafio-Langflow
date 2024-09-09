@@ -1,0 +1,12 @@
+.venv
+__pycache__
+*.pyc
+.git
+./data
+./img
+./notebook
+./sql
+readme.md
+skynet.md
+
+

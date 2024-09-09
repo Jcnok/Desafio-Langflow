@@ -1,0 +1,51 @@
+cliente_id,cpf,nome,email,telefone,endereco,data_cadastro
+1,189.457.306-48,Ayla Viana,ayla.viana@Skynet.com,31932404807,"Alameda de Silveira, Belo Horizonte, MG, 60129-914",2023-10-21
+2,689.721.053-68,Maria Julia Gomes,maria.juliagomes@Skynet.com,41992943383,"Vale de Costela, 8, Curitiba, PR, 85719566",2023-02-19
+3,708.269.134-31,Ana Beatriz Fonseca,ana.beatrizfonseca@Skynet.com,31963675600,"Recanto de Abreu, 52, Belo Horizonte, MG, 68579-458",2024-01-12
+4,287.406.395-92,Rebeca da Cruz,rebeca.dacruz@Skynet.com,71934490380,"Condomínio Freitas, Salvador, BA, 72286-112",2024-05-25
+5,802.534.916-06,Sr. Vitor Hugo Sampaio,sr..vitorhugosampaio@Skynet.com,31975586264,"Rodovia Fernandes, 51, Belo Horizonte, MG, 94280-779",2024-02-11
+6,749.208.135-97,Heloísa da Conceição,heloísa.daconceição@Skynet.com,31995958914,"Vila Beatriz Machado, 25, Belo Horizonte, MG, 81726-791",2023-07-13
+7,148.923.605-89,Isaac Ramos,isaac.ramos@Skynet.com,71944571499,"Vereda Lima, 51, Salvador, BA, 31342-753",2023-01-22
+8,185.963.247-55,Fernanda Pastor,fernanda.pastor@Skynet.com,31930527800,"Morro Luan Nunes, 37, Belo Horizonte, MG, 91749881",2023-09-09
+9,915.207.638-59,Sr. José Pedro Casa Grande,sr..josépedrocasagrande@Skynet.com,51943943953,"Vereda Pereira, 69, Porto Alegre, RS, 57624-670",2023-08-28
+10,495.736.120-70,Dr. Igor Fogaça,dr..igorfogaça@Skynet.com,81931692713,"Viaduto de Gomes, 9, Recife, PE, 77087-656",2024-04-14
+11,804.697.351-39,Raul Costela,raul.costela@Skynet.com,31969570754,"Colônia de Ramos, Belo Horizonte, MG, 67625689",2024-01-26
+12,208.914.376-22,Fernanda Nunes,fernanda.nunes@Skynet.com,11936864005,"Passarela Léo Pimenta, 242, São Paulo, SP, 62042292",2024-07-01
+13,197.683.504-66,Dra. Nicole Cavalcante,dra..nicolecavalcante@Skynet.com,41999945877,"Trecho de Costela, 72, Curitiba, PR, 09186077",2024-06-01
+14,675.143.089-20,Maria Luiza Pereira,maria.luizapereira@Skynet.com,61917314652,"Estrada Clarice da Costa, 5, Brasília, DF, 08834-949",2024-04-09
+15,468.302.197-87,Dra. Ana Lívia Nascimento,dra..analívianascimento@Skynet.com,81987722307,"Parque Brayan Monteiro, Recife, PE, 09116217",2024-04-25
+16,085.217.964-20,Ravi Lopes,ravi.lopes@Skynet.com,51966586947,"Trecho de da Cruz, Porto Alegre, RS, 50541509",2023-03-18
+17,598.607.423-83,Ana Clara Porto,ana.claraporto@Skynet.com,71974589701,"Colônia Andrade, 69, Salvador, BA, 64439568",2022-10-09
+18,971.504.268-67,João Gabriel Andrade,joão.gabrielandrade@Skynet.com,81986441772,"Conjunto Olivia Mendonça, 3, Recife, PE, 26163173",2023-02-09
+19,869.027.413-87,Maria Eduarda da Cruz,maria.eduardadacruz@Skynet.com,81925378257,"Conjunto Helena Martins, 89, Recife, PE, 85946543",2023-11-26
+20,746.390.285-47,Ana Clara Ribeiro,ana.clararibeiro@Skynet.com,61971071961,"Ladeira de da Rosa, 88, Brasília, DF, 55348-901",2023-03-16
+21,976.321.850-03,Olivia Peixoto,olivia.peixoto@Skynet.com,51984586117,"Trevo Caldeira, 38, Porto Alegre, RS, 33885-386",2023-10-26
+22,972.134.068-50,Srta. Ana Julia Cunha,srta..anajuliacunha@Skynet.com,61940016691,"Estação Ana Beatriz Alves, 30, Brasília, DF, 11559088",2023-09-03
+23,684.521.739-46,Bruno Pinto,bruno.pinto@Skynet.com,61910443789,"Praça Guerra, Brasília, DF, 39640815",2024-06-28
+24,485.601.932-51,Sra. Ana Júlia Lopes,sra..anajúlialopes@Skynet.com,11999253620,"Alameda Abreu, 24, São Paulo, SP, 90642416",2023-09-29
+25,024.598.671-58,Luana Monteiro,luana.monteiro@Skynet.com,61934320716,"Distrito de Almeida, 324, Brasília, DF, 63371268",2023-02-13
+26,758.134.096-10,Gustavo Pastor,gustavo.pastor@Skynet.com,61951546415,"Passarela das Neves, Brasília, DF, 40712-672",2023-06-01
+27,367.482.951-73,Antonella Siqueira,antonella.siqueira@Skynet.com,21999841174,"Rua Mathias Azevedo, 46, Rio de Janeiro, RJ, 55927569",2023-08-23
+28,241.653.089-51,Henrique Andrade,henrique.andrade@Skynet.com,91936098360,"Viela de Câmara, 80, Belém, PA, 35570758",2024-02-17
+29,587.391.240-88,Luna Teixeira,luna.teixeira@Skynet.com,11927386397,"Praça Camila Cavalcante, 277, São Paulo, SP, 06632096",2023-07-02
+30,328.791.504-50,Aurora Pastor,aurora.pastor@Skynet.com,91918561736,"Vila Alves, Belém, PA, 80848-887",2024-02-17
+31,031.957.684-10,João Felipe Costela,joão.felipecostela@Skynet.com,21973333898,"Lago de Caldeira, 17, Rio de Janeiro, RJ, 30518482",2023-01-13
+32,205.863.719-40,Diego Brito,diego.brito@Skynet.com,61955307585,"Morro Cavalcante, 65, Brasília, DF, 38403-101",2022-10-03
+33,365.109.274-70,Nicole Nunes,nicole.nunes@Skynet.com,81946943693,"Recanto Câmara, 11, Recife, PE, 52609-746",2023-12-12
+34,194.256.380-98,Nina Vargas,nina.vargas@Skynet.com,11998831892,"Setor Fernando da Conceição, 729, São Paulo, SP, 89243-261",2024-08-15
+35,043.629.581-42,Sra. Luiza Viana,sra..luizaviana@Skynet.com,41904972973,"Chácara Augusto Novais, 96, Curitiba, PR, 18529431",2023-09-30
+36,168.435.209-60,Alana Moraes,alana.moraes@Skynet.com,41956034412,"Quadra da Rocha, Curitiba, PR, 12936343",2024-03-12
+37,549.380.617-75,Srta. Ana Julia Cavalcante,srta..anajuliacavalcante@Skynet.com,91965251087,"Quadra Melina Vargas, Belém, PA, 29187-592",2022-11-01
+38,249.180.573-14,Ana Júlia das Neves,ana.júliadasneves@Skynet.com,81948825991,"Praça Rafaela Monteiro, 56, Recife, PE, 89082036",2022-09-24
+39,168.925.347-91,Sr. Kaique Cavalcante,sr..kaiquecavalcante@Skynet.com,31934190173,"Loteamento de Barbosa, 65, Belo Horizonte, MG, 82451-094",2022-11-29
+40,158.647.920-20,Ayla Moura,ayla.moura@Skynet.com,91942284663,"Trevo Murilo Pacheco, 78, Belém, PA, 55879102",2023-06-07
+41,309.468.251-06,Heloísa Campos,heloísa.campos@Skynet.com,21932179743,"Lagoa de Andrade, 239, Rio de Janeiro, RJ, 94092481",2023-01-12
+42,234.670.815-17,Benício Sousa,benício.sousa@Skynet.com,11985571827,"Rodovia Porto, 71, São Paulo, SP, 44959553",2023-01-05
+43,368.409.127-87,Ana Luiza Fogaça,ana.luizafogaça@Skynet.com,11901616200,"Condomínio Gomes, 98, São Paulo, SP, 79792799",2024-08-21
+44,870.639.214-87,Davi Lucca Moraes,davi.luccamoraes@Skynet.com,71960564295,"Praia da Rosa, 36, Salvador, BA, 32504-767",2023-10-03
+45,807.362.195-95,Apollo Nascimento,apollo.nascimento@Skynet.com,61993089381,"Trecho de Martins, 5, Brasília, DF, 95170-494",2024-05-21
+46,576.198.023-12,Luiz Henrique Farias,luiz.henriquefarias@Skynet.com,71960532562,"Morro Correia, 75, Salvador, BA, 68509-318",2023-06-15
+47,503.461.287-90,Vitor Gabriel Barros,vitor.gabrielbarros@Skynet.com,21907193642,"Ladeira da Mata, 3, Rio de Janeiro, RJ, 32980-260",2024-02-17
+48,543.901.682-15,Bianca da Luz,bianca.daluz@Skynet.com,51971381323,"Lagoa de Mendonça, 29, Porto Alegre, RS, 72146-286",2024-02-27
+49,185.632.490-70,Apollo Abreu,apollo.abreu@Skynet.com,31930668298,"Aeroporto Benjamin Nascimento, 92, Belo Horizonte, MG, 11649326",2023-06-09
+50,798.603.451-39,Maria Flor Fogaça,maria.florfogaça@Skynet.com,31951267578,"Praia de da Costa, 28, Belo Horizonte, MG, 17383-004",2024-04-30

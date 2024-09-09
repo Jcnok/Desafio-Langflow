@@ -1,0 +1,101 @@
+historico_id,chamado_id,atendente_id,data_atendimento,descricao,historico_texto
+1,1,6,2023-08-18,Informações sobre cobertura em nova localidade,Verificada disponibilidade de serviço no endereço informado
+2,2,8,2024-08-11,Dúvidas sobre prazo de instalação,Verificado cronograma de instalações e disponibilidade de equipe
+3,3,8,2024-09-03,Solicitação de aumento temporário de velocidade,Verificada disponibilidade técnica para upgrade
+4,4,6,2024-08-21,Informações sobre cobertura em nova localidade,Verificada disponibilidade de serviço no endereço informado
+5,5,2,2022-12-15,Cliente relata lentidão na conexão,Realizado teste de velocidade e orientado a reiniciar o roteador
+6,6,3,2024-03-22,Solicitação de segunda via de fatura,Verificado sistema de faturamento e gerada segunda via
+7,7,1,2024-09-03,Dúvidas sobre prazo de instalação,Verificado cronograma de instalações e disponibilidade de equipe
+8,8,5,2024-09-03,Sem conexão à internet,Verificado status do sinal e realizado diagnóstico remoto
+9,9,7,2024-03-29,Solicitação de proposta para condomínio,Coletadas informações sobre o condomínio e suas necessidades
+10,10,9,2023-11-19,Lentidão em serviços de streaming,Realizado teste de velocidade e verificada qualidade do sinal
+11,11,7,2024-09-03,Solicitação de aumento temporário de velocidade,Verificada disponibilidade técnica para upgrade
+12,12,2,2024-09-03,Interesse em upgrade de plano,Apresentadas opções de planos superiores e seus benefícios
+13,13,7,2023-11-26,Dúvidas sobre fatura mensal,Explicado detalhamento dos serviços cobrados
+14,14,6,2024-05-25,Solicitação de suporte para instalação de câmeras IP,Explicado processo de configuração e redirecionamento de portas
+15,15,4,2023-08-24,Dúvidas sobre cobrança pro-rata na instalação,Detalhado cálculo pro-rata para o primeiro mês de serviço
+16,16,4,2024-09-03,Dúvidas sobre pacote combo (internet + TV),Detalhados canais inclusos e vantagens do combo
+17,17,6,2024-04-26,Interesse em serviços de cloud para empresa,Apresentadas soluções de cloud computing e backup
+18,18,3,2023-09-02,Informações sobre multa e juros por atraso,Explicada política de cobrança de multas e juros
+19,19,3,2023-07-31,Solicitação de cancelamento de serviço,Investigados motivos e oferecidas alternativas para retenção
+20,20,5,2024-06-27,Dúvidas sobre pacote combo (internet + TV),Detalhados canais inclusos e vantagens do combo
+21,21,2,2024-04-17,Interesse em serviço de IP fixo,Apresentados benefícios e custos adicionais do IP fixo
+22,22,9,2024-09-03,Sem conexão à internet,Verificado status do sinal e realizado diagnóstico remoto
+23,23,1,2024-06-18,Dúvidas sobre fatura mensal,Explicado detalhamento dos serviços cobrados
+24,24,7,2024-08-23,Solicitação de alteração de data de vencimento,Verificadas opções de datas disponíveis
+25,25,4,2024-09-03,Solicitação de nota fiscal,Verificado status de emissão da nota fiscal
+26,26,2,2024-01-17,Interesse em serviços de cloud para empresa,Apresentadas soluções de cloud computing e backup
+27,27,3,2024-04-08,Informações sobre multa e juros por atraso,Explicada política de cobrança de multas e juros
+28,28,4,2023-10-17,Solicitação de parcelamento de débitos,Apresentadas opções de parcelamento disponíveis
+29,29,10,2023-06-26,Informações sobre multa e juros por atraso,Explicada política de cobrança de multas e juros
+30,30,4,2023-12-15,Problemas com e-mail corporativo,Verificadas configurações de SMTP e IMAP no cliente de e-mail
+31,31,5,2024-05-08,Lentidão em serviços de streaming,Realizado teste de velocidade e verificada qualidade do sinal
+32,32,8,2024-09-03,Dificuldade em configurar roteador Wi-Fi,Fornecidas instruções passo a passo para configuração
+33,33,1,2024-04-16,Cliente relata lentidão na conexão,Realizado teste de velocidade e orientado a reiniciar o roteador
+34,34,3,2024-09-03,Solicitação de alteração de data de vencimento,Verificadas opções de datas disponíveis
+35,35,1,2024-08-11,Dúvidas sobre segurança da rede,Explicadas medidas de segurança e recomendado uso de VPN
+36,36,9,2024-09-03,Informações sobre cobertura em nova localidade,Verificada disponibilidade de serviço no endereço informado
+37,37,3,2023-08-20,Solicitação de aumento temporário de velocidade,Verificada disponibilidade técnica para upgrade
+38,38,3,2024-01-30,Dúvidas sobre prazo de instalação,Verificado cronograma de instalações e disponibilidade de equipe
+39,39,10,2023-12-16,Lentidão em serviços de streaming,Realizado teste de velocidade e verificada qualidade do sinal
+40,40,8,2024-05-13,Solicitação de cancelamento de serviço,Investigados motivos e oferecidas alternativas para retenção
+41,41,9,2024-09-03,Solicitação de cancelamento de serviço,Investigados motivos e oferecidas alternativas para retenção
+42,42,3,2023-11-12,Cliente relata lentidão na conexão,Realizado teste de velocidade e orientado a reiniciar o roteador
+43,43,2,2024-02-13,Solicitação de informações sobre planos empresariais,Explicadas opções de planos dedicados e suas vantagens
+44,44,8,2023-10-24,Informações sobre cobertura em nova localidade,Verificada disponibilidade de serviço no endereço informado
+45,45,5,2023-02-19,Dificuldade em configurar roteador Wi-Fi,Fornecidas instruções passo a passo para configuração
+46,46,3,2024-09-03,Dúvidas sobre segurança da rede,Explicadas medidas de segurança e recomendado uso de VPN
+47,47,2,2023-09-23,Interesse em serviços de cloud para empresa,Apresentadas soluções de cloud computing e backup
+48,48,8,2024-09-03,Contestação de valor na fatura,Analisado histórico de consumo e serviços contratados
+49,49,8,2024-09-03,Sem conexão à internet,Verificado status do sinal e realizado diagnóstico remoto
+50,50,9,2023-12-24,Solicitação de nota fiscal,Verificado status de emissão da nota fiscal
+51,51,5,2024-09-03,Dúvidas sobre fidelidade contratual,Explicadas condições de fidelidade e multa por quebra de contrato
+52,52,5,2023-11-13,Reclamação de instabilidade na conexão,Analisado histórico de conexão e identificados picos de uso
+53,53,3,2023-06-05,Dúvidas sobre desconto de pontualidade,Esclarecidas regras do programa de desconto por pagamento em dia
+54,54,9,2023-08-29,Dúvidas sobre fidelidade contratual,Explicadas condições de fidelidade e multa por quebra de contrato
+55,55,1,2023-12-25,Informações sobre cobertura em nova localidade,Verificada disponibilidade de serviço no endereço informado
+56,56,9,2024-09-03,Dúvidas sobre segurança da rede,Explicadas medidas de segurança e recomendado uso de VPN
+57,57,2,2024-01-10,Solicitação de informações sobre planos empresariais,Explicadas opções de planos dedicados e suas vantagens
+58,58,6,2024-03-21,Solicitação de segunda via de fatura,Verificado sistema de faturamento e gerada segunda via
+59,59,2,2024-07-24,Dúvidas sobre desconto de pontualidade,Esclarecidas regras do programa de desconto por pagamento em dia
+60,60,10,2024-02-04,Problemas de conexão em jogos online,Analisada latência e perda de pacotes
+61,61,9,2024-06-14,Dificuldade em configurar roteador Wi-Fi,Fornecidas instruções passo a passo para configuração
+62,62,8,2024-09-03,Solicitação de suporte para instalação de câmeras IP,Explicado processo de configuração e redirecionamento de portas
+63,63,7,2023-05-01,Dúvidas sobre fidelidade contratual,Explicadas condições de fidelidade e multa por quebra de contrato
+64,64,6,2024-09-03,Interesse em serviço de IP fixo,Apresentados benefícios e custos adicionais do IP fixo
+65,65,1,2024-05-06,Interesse em upgrade de plano,Apresentadas opções de planos superiores e seus benefícios
+66,66,4,2024-04-04,Dúvidas sobre fatura mensal,Explicado detalhamento dos serviços cobrados
+67,67,5,2024-09-03,Problemas com e-mail corporativo,Verificadas configurações de SMTP e IMAP no cliente de e-mail
+68,68,8,2024-09-03,Dúvidas sobre fatura mensal,Explicado detalhamento dos serviços cobrados
+69,69,10,2023-09-24,Solicitação de suporte para instalação de câmeras IP,Explicado processo de configuração e redirecionamento de portas
+70,70,4,2023-09-14,Informações sobre métodos de pagamento,"Explicadas opções de pagamento: boleto, cartão e débito automático"
+71,71,10,2024-09-03,Lentidão em serviços de streaming,Realizado teste de velocidade e verificada qualidade do sinal
+72,72,4,2024-09-03,Problemas com e-mail corporativo,Verificadas configurações de SMTP e IMAP no cliente de e-mail
+73,73,5,2024-09-03,Solicitação de cancelamento de serviço,Investigados motivos e oferecidas alternativas para retenção
+74,74,8,2024-01-23,Solicitação de cancelamento de serviço,Investigados motivos e oferecidas alternativas para retenção
+75,75,10,2023-07-15,Dúvidas sobre desconto de pontualidade,Esclarecidas regras do programa de desconto por pagamento em dia
+76,76,4,2024-09-03,Solicitação de aumento temporário de velocidade,Verificada disponibilidade técnica para upgrade
+77,77,9,2024-09-03,Informações sobre cobertura em nova localidade,Verificada disponibilidade de serviço no endereço informado
+78,78,7,2023-07-27,Dúvidas sobre desconto de pontualidade,Esclarecidas regras do programa de desconto por pagamento em dia
+79,79,6,2023-05-27,Dificuldade em configurar roteador Wi-Fi,Fornecidas instruções passo a passo para configuração
+80,80,4,2024-09-03,Dúvidas sobre fidelidade contratual,Explicadas condições de fidelidade e multa por quebra de contrato
+81,81,8,2024-09-03,Dúvidas sobre prazo de instalação,Verificado cronograma de instalações e disponibilidade de equipe
+82,82,6,2023-10-27,Dúvidas sobre fidelidade contratual,Explicadas condições de fidelidade e multa por quebra de contrato
+83,83,9,2023-08-22,Informações sobre métodos de pagamento,"Explicadas opções de pagamento: boleto, cartão e débito automático"
+84,84,6,2023-08-29,Contestação de valor na fatura,Analisado histórico de consumo e serviços contratados
+85,85,10,2024-08-16,Dúvidas sobre fatura mensal,Explicado detalhamento dos serviços cobrados
+86,86,3,2023-04-06,Solicitação de suporte para instalação de câmeras IP,Explicado processo de configuração e redirecionamento de portas
+87,87,7,2024-09-03,Cliente relata lentidão na conexão,Realizado teste de velocidade e orientado a reiniciar o roteador
+88,88,6,2023-10-03,Dúvidas sobre fidelidade contratual,Explicadas condições de fidelidade e multa por quebra de contrato
+89,89,6,2024-05-04,Sem conexão à internet,Verificado status do sinal e realizado diagnóstico remoto
+90,90,3,2023-08-02,Solicitação de cancelamento de serviço,Investigados motivos e oferecidas alternativas para retenção
+91,91,10,2023-01-16,Dúvidas sobre prazo de instalação,Verificado cronograma de instalações e disponibilidade de equipe
+92,92,8,2023-01-05,Solicitação de informações sobre planos empresariais,Explicadas opções de planos dedicados e suas vantagens
+93,93,4,2024-09-03,Dificuldade em configurar roteador Wi-Fi,Fornecidas instruções passo a passo para configuração
+94,94,9,2023-03-31,Interesse em upgrade de plano,Apresentadas opções de planos superiores e seus benefícios
+95,95,6,2023-09-07,Solicitação de cancelamento de serviço,Investigados motivos e oferecidas alternativas para retenção
+96,96,7,2024-07-22,Dúvidas sobre fidelidade contratual,Explicadas condições de fidelidade e multa por quebra de contrato
+97,97,4,2024-02-03,Solicitação de proposta para condomínio,Coletadas informações sobre o condomínio e suas necessidades
+98,98,1,2024-09-03,Solicitação de nota fiscal,Verificado status de emissão da nota fiscal
+99,99,3,2023-08-11,Lentidão em serviços de streaming,Realizado teste de velocidade e verificada qualidade do sinal
+100,100,5,2023-08-19,Problemas de conexão em jogos online,Analisada latência e perda de pacotes
