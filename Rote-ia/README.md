@@ -74,10 +74,10 @@ docker-compose down
 ```
 ├── Flow/                     # Os json do projeto para a langflow
 ├── open-webui/
-│   ├── _data/                # Diretório de dados para WebUI
-│   └── config/               # Arquivos de configuração do WebUI
+│   └── _data/                # Diretório de dados para WebUI
 ├── langflow/
 │   └── data/                 # Diretório de dados para Langflow
+├── webui_rote_ia_v2.json     # Função para integrar api langflow com open-webui
 ├── .env(env.example)         # Variáveis de ambiente (chaves API, configuração)
 ├── docker-compose.yaml       # Configuração do Docker Compose
 └── README.md                 # Esta documentação
