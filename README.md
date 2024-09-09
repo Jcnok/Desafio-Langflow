@@ -64,8 +64,6 @@ Maxwell Fernandes - Engenheiro de Prompt
 [![Github](https://img.shields.io/badge/github-grey.svg)](https://github.com/tocadaweb)
 
 
-
-
 ## Contato
 
 Rote-IA Consultoria - 
