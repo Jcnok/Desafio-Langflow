@@ -72,12 +72,13 @@ docker-compose down
 ## Estrutura do Projeto
 
 ```
+├── Flow/                     # Os json do projeto para a langflow
 ├── open-webui/
 │   ├── _data/                # Diretório de dados para WebUI
 │   └── config/               # Arquivos de configuração do WebUI
 ├── langflow/
-│   ├── data/                 # Diretório de dados para Langflow
-├── .env                      # Variáveis de ambiente (chaves API, configuração)
+│   └── data/                 # Diretório de dados para Langflow
+├── .env(env.example)         # Variáveis de ambiente (chaves API, configuração)
 ├── docker-compose.yaml       # Configuração do Docker Compose
 └── README.md                 # Esta documentação
 ```
