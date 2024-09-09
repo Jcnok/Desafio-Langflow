@@ -25,7 +25,6 @@ Este repositório contém as configurações do Docker Compose, que permitem exe
 - **Open-WebUI**: Plataforma frontend para gerenciamento de modelos de IA.
 - **Langflow**: Motor de fluxo de trabalho para gestão, execução e integração de serviços de IA.
 - **Semantic-Router**: Roteador de serviços baseado em NLP.
-- **Feedparser**: Integração com serviços de feed para processamento de dados em tempo real.
 
 ## Como Começar
 
@@ -87,7 +86,7 @@ docker-compose down
 
 ### Atualizando Dependências
 
-O Langflow suporta pacotes Python adicionais, como `semantic-router` e `feedparser`. Você pode atualizar ou adicionar outros pacotes modificando o comando no arquivo `docker-compose.yaml` na seção do serviço `langflow`:
+O Langflow suporta pacotes Python adicionais, como `semantic-router`. Você pode atualizar ou adicionar outros pacotes modificando o comando no arquivo `docker-compose.yaml` na seção do serviço `langflow`:
 
 ```yaml
 command: /bin/sh -c "pip install [NOVO_PACOTE] && python -m langflow run --host=0.0.0.0 --port=7860 --timeout=1800"
@@ -114,5 +113,5 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## Contato
 
-Para perguntas ou sugestões, entre em contato por e-mail: [seuemail@example.com](mailto:seuemail@example.com)
+Para perguntas ou sugestões, entre em contato por e-mail: [suporte@rote-ia.com](mailto:julio.okuda@gmail.com.com)
 
