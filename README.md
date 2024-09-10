@@ -5,6 +5,10 @@
 
 ![Rote.IA Logo](./img/diagrama.png)
 
+## Demostração do funcionamento:
+![maria](img/maria_julia.gif)
+
+
 ## Visão Geral
 
 Rote.IA é uma plataforma de inteligência artificial avançada desenvolvida pela nossa equipe de consultoria para o desafio Langflow. Este projeto revoluciona o atendimento ao cliente para a Skynet, substituindo os tradicionais chatbots de menus hierárquicos por um sistema inteligente e fluido.
