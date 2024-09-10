@@ -1,0 +1,26 @@
+services:
+  webui:
+    image: jcnok/open-webui-rote-ia #ghcr.io/open-webui/open-webui:main
+    pull_policy: always
+    restart: always
+    volumes:
+      - ./open-webui/_data:/app/backend/data
+    ports:
+      - 8080:8080
+    env_file:
+      - .env
+    depends_on:
+      - langflow
+
+  langflow:
+    image: jcnok/langflow-rote-ia #langflowai/langflow:1.0.16
+    pull_policy: always
+    restart: always
+    volumes:
+      - ./langflow/data:/app/langflow
+    ports:
+      - 7860:7860
+    env_file:
+      - .env
+    user: "1000:1000"
+    command: /bin/sh -c "pip install semantic-router==0.0.61 && pip install feedparser==6.0.11 && python -m langflow run --host=0.0.0.0 --port=7860 --timeout=1800"
