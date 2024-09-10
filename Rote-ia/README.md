@@ -61,6 +61,12 @@ Certifique-se de que você tem os seguintes itens instalados:
    - **WebUI**: Acesse [http://localhost:8080](http://localhost:8080)
    - **Langflow**: Acesse [http://localhost:7860](http://localhost:7860)
 
+### Demonstração de como configurar o ambiente:
+![config](/img/config_docker.gif)
+
+### Exemplo de um cliente logado no sistema realizando uma solicitação:
+![maria](/img/maria_julia.gif)
+
 ### Parar os Serviços
 
 Para parar e remover os containers:
