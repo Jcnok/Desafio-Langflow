@@ -1,6 +1,6 @@
 services:
   webui:
-    image: jcnok/open-webui-rote-ia #ghcr.io/open-webui/open-webui:main
+    image: jcnok/open-webui-rote-ia  #ghcr.io/open-webui/open-webui:main
     pull_policy: always
     restart: always
     volumes:
@@ -13,7 +13,7 @@ services:
       - langflow
 
   langflow:
-    image: jcnok/langflow-rote-ia #langflowai/langflow:1.0.16
+    image: jcnok/langflow-rote-ia  #langflowai/langflow:1.0.16
     pull_policy: always
     restart: always
     volumes:
